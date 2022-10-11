@@ -1,0 +1,21 @@
+.box-left {
+    position: absolute; 
+    left: 0px; 
+    width: 46%; 
+    padding: 2%;
+    top: 200px; 
+}  
+.box-right {
+    position: absolute; 
+    left: 50%; 
+    width: 46%; 
+    padding: 2%;
+    top: 200px; 
+}
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto/9; /* ie8 */
+}
+
+
